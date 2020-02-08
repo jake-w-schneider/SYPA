@@ -1,0 +1,2 @@
+WDI* filter=lfs diff=lfs merge=lfs -text
+WDI*.csv filter=lfs diff=lfs merge=lfs -text

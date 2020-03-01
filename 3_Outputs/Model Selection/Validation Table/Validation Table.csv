@@ -1,0 +1,4 @@
+,Model Name,Model Type,Minimum RMSE,Variables
+0,Linear Regression,Linear Model,20021.89,2313
+0,Ridge Regression,Linear Model,12131.99,2310
+0,Lasso Regression,Linear Model,462.4,986

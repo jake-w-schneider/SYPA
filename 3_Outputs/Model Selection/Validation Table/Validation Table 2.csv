@@ -1,5 +1,5 @@
 ,Model Name,Model Type,Minimum RMSE,Variables
-0,Linear Regression,Linear Model,20021.89,2313
-1,Ridge Regression,Linear Model,12131.99,2310
-2,Lasso Regression,Linear Model,462.4,986
-3,Random Forest,Tree-Based,144.07,2310
+0,Linear Regression,Linear Model,225737.44,2306
+1,Ridge Regression,Linear Model,1320499.0,2304
+2,Lasso Regression,Linear Model,35.2,885
+3,Random Forest,Tree-Based,50.88,2303

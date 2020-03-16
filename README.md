@@ -1,5 +1,5 @@
 # SYPA
-This repository houses the python and R code underlying the analysis of my Harvard Master's Thesis, called our Second Year Policy Analysis (SYPA).
+This repository houses the python and R code underlying the analysis of Jake Schneider's Harvard Master's Thesis, called a Second Year Policy Analysis (SYPA).
 
 **Project Overview** <br>
 <br>

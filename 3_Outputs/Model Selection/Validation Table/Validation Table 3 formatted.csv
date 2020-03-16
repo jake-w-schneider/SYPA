@@ -1,0 +1,6 @@
+Number,Model Name,Model Type,Minimum RMSE,Variables
+1,Linear Regression,Linear Model,225737.44,2306
+2,Ridge Regression,Linear Model,1320499,2304
+3,Lasso Regression,Linear Model,35.2,885
+4,Random Forest,Tree-Based,50.88,2303
+5,Deep Neural Networks (DNN),Neural Networks,19.24,2302

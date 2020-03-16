@@ -1,0 +1,193 @@
+country,code,region,incomeLevel,lendingType,Actual FDI Inflow (% of GDP),Predicted FDI Inflow (% of GDP),Difference,Percent Difference (%),Over- or Under- Investment
+Libya,LBY,Middle East & North Africa,Upper middle income,IBRD,0,1.7568405,1.756840467,inf,Under-Invested
+Nauru,NRU,East Asia & Pacific,Upper middle income,IBRD,0,0.82991207,0.829912066,inf,Under-Invested
+South Sudan,SSD,Sub-Saharan Africa ,Low income,IDA,0.001250229,0.8715493,0.870299079,69611.1663,Under-Invested
+Turks and Caicos Islands,TCA,Latin America & Caribbean ,High income,Not classified,0.086776511,1.7480154,1.661238893,1914.387751,Under-Invested
+Bhutan,BTN,South Asia,Lower middle income,IDA,0.074573751,1.2455964,1.171022658,1570.287991,Under-Invested
+Eswatini,SWZ,Sub-Saharan Africa ,Lower middle income,IBRD,0.168656508,1.4261477,1.257491191,745.5930422,Under-Invested
+Dominica,DMA,Latin America & Caribbean ,Upper middle income,Blend,0.507701633,2.9053402,2.397638561,472.2534663,Under-Invested
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,Blend,0.344825944,1.687073,1.342247049,389.2534983,Under-Invested
+Kuwait,KWT,Middle East & North Africa,High income,Not classified,0.148441323,0.7052042,0.556762866,375.0726924,Under-Invested
+Qatar,QAT,Middle East & North Africa,High income,Not classified,0.155083607,0.5980744,0.442990769,285.6464177,Under-Invested
+Hungary,HUN,Europe & Central Asia,High income,Not classified,-1.369809187,4.9477835,6.317592657,261.2023863,Under-Invested
+Austria,AUT,Europe & Central Asia,High income,Not classified,-0.795729167,2.848883,3.644612081,258.0216775,Under-Invested
+Burundi,BDI,Sub-Saharan Africa ,Low income,IDA,0.410678242,1.1977985,0.787120249,191.6634896,Under-Invested
+Trinidad and Tobago,TTO,Latin America & Caribbean ,High income,IBRD,-0.547444566,1.5387986,2.086243136,181.0875598,Under-Invested
+Nepal,NPL,South Asia,Low income,IDA,0.518934482,1.3779516,0.85901714,165.5347967,Under-Invested
+Central African Republic,CAF,Sub-Saharan Africa ,Low income,IDA,0.429397818,1.1254842,0.69608641,162.1075797,Under-Invested
+Timor-Leste,TLS,East Asia & Pacific,Lower middle income,Blend,0.933996909,2.3896985,1.455701596,155.8572178,Under-Invested
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,IDA,2.370403406,5.255313,2.884909513,121.7054239,Under-Invested
+Zimbabwe,ZWE,Sub-Saharan Africa ,Lower middle income,Blend,1.788628852,3.8842618,2.095632994,117.1642172,Under-Invested
+"Gambia, The",GMB,Sub-Saharan Africa ,Low income,IDA,0.486724355,1.0535604,0.566836021,116.4593502,Under-Invested
+Bahrain,BHR,Middle East & North Africa,High income,Not classified,1.610388156,3.2580142,1.647626046,102.3123549,Under-Invested
+Samoa,WSM,East Asia & Pacific,Upper middle income,IDA,1.712748549,3.424039,1.711290338,99.91486135,Under-Invested
+Liberia,LBR,Sub-Saharan Africa ,Low income,IDA,7.030186163,13.219409,6.189222826,88.03782264,Under-Invested
+South Africa,ZAF,Sub-Saharan Africa ,Upper middle income,IBRD,0.825072937,1.4885358,0.663462825,80.41262711,Under-Invested
+West Bank and Gaza,PSE,Middle East & North Africa,Lower middle income,Not classified,1.55878247,2.7890427,1.230260242,78.92443402,Under-Invested
+Equatorial Guinea,GNQ,Sub-Saharan Africa ,Upper middle income,IBRD,1.918017431,3.1390445,1.221027092,63.6608965,Under-Invested
+Comoros,COM,Sub-Saharan Africa ,Lower middle income,IDA,0.474220767,0.7691946,0.294973835,62.20179623,Under-Invested
+"Macao SAR, China",MAC,East Asia & Pacific,High income,Not classified,1.841901657,2.9819188,1.140017154,61.89348655,Under-Invested
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,IDA,-0.587083206,0.94337344,1.530456647,60.688201,Under-Invested
+Kiribati,KIR,East Asia & Pacific,Lower middle income,IDA,0.317742403,0.509863,0.192120616,60.46426718,Under-Invested
+Mongolia,MNG,East Asia & Pacific,Lower middle income,Blend,-2.084539057,3.2360144,5.320553423,55.23884551,Under-Invested
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa ,Low income,IDA,2.765421219,4.2674704,1.502049141,54.31538352,Under-Invested
+New Zealand,NZL,East Asia & Pacific,High income,Not classified,0.729500702,1.0817508,0.352250048,48.28645776,Under-Invested
+Afghanistan,AFG,South Asia,Low income,IDA,0.576789976,0.8067266,0.229936599,39.86487425,Under-Invested
+Algeria,DZA,Middle East & North Africa,Upper middle income,IBRD,0.571015011,0.7463995,0.175384511,30.71451837,Under-Invested
+Bolivia,BOL,Latin America & Caribbean ,Lower middle income,IBRD,1.300363846,1.5740156,0.273651771,21.04424632,Under-Invested
+Nigeria,NGA,Sub-Saharan Africa ,Lower middle income,Blend,0.791597864,0.9401485,0.148550609,18.76591836,Under-Invested
+Belize,BLZ,Latin America & Caribbean ,Upper middle income,IBRD,3.264511246,3.7116854,0.447174173,13.69804358,Under-Invested
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,IDA,-0.975524205,1.0947466,2.070270794,12.22136617,Under-Invested
+Bangladesh,BGD,South Asia,Lower middle income,IDA,1.075693787,1.1917069,0.116013109,10.78495668,Under-Invested
+Aruba,ABW,Latin America & Caribbean ,High income,Not classified,1.913110232,2.1135268,0.200416589,10.47595617,Under-Invested
+"Korea, Rep.",KOR,East Asia & Pacific,High income,Not classified,0.804163878,0.87270266,0.068538781,8.522986736,Under-Invested
+Burkina Faso,BFA,Sub-Saharan Africa ,Low income,IDA,2.309008392,2.4245176,0.115509239,5.002547392,Under-Invested
+Moldova,MDA,Europe & Central Asia,Lower middle income,Blend,1.913982095,2.0003805,0.086398421,4.514066313,Under-Invested
+Benin,BEN,Sub-Saharan Africa ,Low income,IDA,1.876501133,1.8681118,-0.008389284,-0.447070552,Over-Invested
+Denmark,DNK,Europe & Central Asia,High income,Not classified,1.319610165,1.2984128,-0.021197365,-1.606335409,Over-Invested
+Kenya,KEN,Sub-Saharan Africa ,Lower middle income,Blend,1.05972573,1.0214896,-0.03823611,-3.608113776,Over-Invested
+Madagascar,MDG,Sub-Saharan Africa ,Low income,IDA,3.851949243,3.4717393,-0.380209951,-9.870585686,Over-Invested
+Sweden,SWE,Europe & Central Asia,High income,Not classified,2.503616861,2.1984272,-0.30518966,-12.18995067,Over-Invested
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,Blend,1.597147758,1.3998387,-0.197309072,-12.35383959,Over-Invested
+Botswana,BWA,Sub-Saharan Africa ,Upper middle income,IBRD,1.413012505,1.2037642,-0.209248305,-14.8086662,Over-Invested
+Angola,AGO,Sub-Saharan Africa ,Lower middle income,IBRD,-0.756217866,0.6180502,1.374268084,-18.27087867,Under-Invested
+El Salvador,SLV,Latin America & Caribbean ,Lower middle income,IBRD,1.938525307,1.550105,-0.388420332,-20.03689765,Over-Invested
+Tonga,TON,East Asia & Pacific,Upper middle income,IDA,1.586173579,1.2349796,-0.351193949,-22.14095317,Over-Invested
+Sudan,SDN,Sub-Saharan Africa ,Lower middle income,IDA,1.636449939,1.2694799,-0.366970068,-22.42476591,Over-Invested
+Tuvalu,TUV,East Asia & Pacific,Upper middle income,IDA,0.776600538,0.5911437,-0.18545681,-23.88059258,Over-Invested
+Barbados,BRB,Latin America & Caribbean ,High income,Not classified,3.935459867,2.9709525,-0.964507357,-24.5081233,Over-Invested
+Guyana,GUY,Latin America & Caribbean ,Upper middle income,IDA,5.986084064,4.4832144,-1.502869686,-25.10605714,Over-Invested
+France,FRA,Europe & Central Asia,High income,Not classified,1.672204679,1.2467353,-0.425469344,-25.44361642,Over-Invested
+Norway,NOR,Europe & Central Asia,High income,Not classified,-1.538801443,1.1271658,2.665967237,-26.75040699,Under-Invested
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,IBRD,2.250547458,1.6064014,-0.644146014,-28.62174765,Over-Invested
+Ecuador,ECU,Latin America & Caribbean ,Upper middle income,IBRD,0.998428529,0.7109021,-0.287526434,-28.79789849,Over-Invested
+Haiti,HTI,Latin America & Caribbean ,Low income,IDA,2.017994608,1.4042158,-0.613778796,-30.41528422,Over-Invested
+Cote d'Ivoire,CIV,Sub-Saharan Africa ,Lower middle income,IDA,1.951549316,1.3404025,-0.611146832,-31.31598198,Over-Invested
+Belgium,BEL,Europe & Central Asia,High income,Not classified,-3.890627893,2.6444352,6.53506306,-32.03063258,Under-Invested
+Mauritania,MRT,Sub-Saharan Africa ,Lower middle income,IDA,7.38152424,5.005782,-2.375742113,-32.18498017,Over-Invested
+Latvia,LVA,Europe & Central Asia,High income,Not classified,2.24278729,1.5150577,-0.727729607,-32.44755356,Over-Invested
+Liechtenstein,LIE,Europe & Central Asia,High income,Not classified,1129.437034,755.9542,-373.4828109,-33.06805067,Over-Invested
+Lithuania,LTU,Europe & Central Asia,High income,Not classified,2.175920979,1.452348,-0.723572985,-33.25364258,Over-Invested
+Namibia,NAM,Sub-Saharan Africa ,Upper middle income,IBRD,3.835171404,2.555885,-1.279286328,-33.35669238,Over-Invested
+Sri Lanka,LKA,South Asia,Upper middle income,IBRD,1.325756016,0.8716543,-0.454101744,-34.25228613,Over-Invested
+Guatemala,GTM,Latin America & Caribbean ,Upper middle income,IBRD,1.559896505,1.0080523,-0.551844156,-35.37697238,Over-Invested
+Cameroon,CMR,Sub-Saharan Africa ,Lower middle income,Blend,2.106274602,1.3464772,-0.759797451,-36.07304813,Over-Invested
+Germany,DEU,Europe & Central Asia,High income,Not classified,2.153220525,1.358066,-0.795154563,-36.92861707,Over-Invested
+Cayman Islands,CYM,Latin America & Caribbean ,High income,Not classified,1187.082608,744.542,-442.5406154,-37.27968151,Over-Invested
+Senegal,SEN,Sub-Saharan Africa ,Lower middle income,IDA,2.543685627,1.5909915,-0.95269413,-37.45329689,Over-Invested
+Brunei Darussalam,BRN,East Asia & Pacific,High income,Not classified,1.90811167,1.1860834,-0.722028234,-37.83993597,Over-Invested
+Togo,TGO,Sub-Saharan Africa ,Low income,IDA,2.218996586,1.3603917,-0.85860485,-38.69338309,Over-Invested
+Antigua and Barbuda,ATG,Latin America & Caribbean ,High income,IBRD,7.144775304,4.312068,-2.832707319,-39.64725549,Over-Invested
+Luxembourg,LUX,Europe & Central Asia,High income,Not classified,13.90564612,8.340176,-5.565470494,-40.02309885,Over-Invested
+Slovenia,SVN,Europe & Central Asia,High income,Not classified,3.136290272,1.8712428,-1.26504751,-40.33579167,Over-Invested
+Lesotho,LSO,Sub-Saharan Africa ,Lower middle income,IDA,2.86583833,1.6905339,-1.175304454,-41.01084284,Over-Invested
+Tanzania,TZA,Sub-Saharan Africa ,Low income,IDA,2.562026422,1.4452393,-1.116787116,-43.58999216,Over-Invested
+Mozambique,MOZ,Sub-Saharan Africa ,Low income,IDA,21.54951271,12.02287,-9.526642651,-44.2081581,Over-Invested
+Greece,GRC,Europe & Central Asia,High income,Not classified,1.44117314,0.7749785,-0.666194621,-46.22585606,Over-Invested
+Paraguay,PRY,Latin America & Caribbean ,Upper middle income,IBRD,1.281930354,0.68316996,-0.598760393,-46.7077163,Over-Invested
+Chad,TCD,Sub-Saharan Africa ,Low income,IDA,4.192058061,2.2098336,-1.982224439,-47.28523342,Over-Invested
+Estonia,EST,Europe & Central Asia,High income,Not classified,2.623435736,1.3757238,-1.247711897,-47.56022342,Over-Invested
+Guinea-Bissau,GNB,Sub-Saharan Africa ,Low income,IDA,1.332791936,0.6885128,-0.644279134,-48.34056364,Over-Invested
+Armenia,ARM,Europe & Central Asia,Upper middle income,IBRD,2.282550757,1.1443092,-1.138241594,-49.86708797,Over-Invested
+Zambia,ZMB,Sub-Saharan Africa ,Lower middle income,IDA,3.872300434,1.9316583,-1.940642166,-50.11600208,Over-Invested
+Mali,MLI,Sub-Saharan Africa ,Low income,IDA,2.605995652,1.2439554,-1.362040278,-52.26563893,Over-Invested
+St. Lucia,LCA,Latin America & Caribbean ,Upper middle income,Blend,7.184536431,3.4048574,-3.779679034,-52.60853042,Over-Invested
+Jordan,JOR,Middle East & North Africa,Upper middle income,IBRD,3.850882735,1.7120614,-2.13882133,-55.54106622,Over-Invested
+Portugal,PRT,Europe & Central Asia,High income,Not classified,3.095823125,1.3747447,-1.721078471,-55.59356597,Over-Invested
+Finland,FIN,Europe & Central Asia,High income,Not classified,3.472112425,1.4996488,-1.972463616,-56.80874852,Over-Invested
+"Bahamas, The",BHS,Latin America & Caribbean ,High income,Not classified,3.437502249,1.4449326,-1.992569669,-57.96562518,Over-Invested
+Tajikistan,TJK,Europe & Central Asia,Low income,IDA,3.696833187,1.5513631,-2.145470077,-58.03534994,Over-Invested
+Romania,ROU,Europe & Central Asia,Upper middle income,IBRD,2.857211599,1.1755471,-1.681664476,-58.85684058,Over-Invested
+Cabo Verde,CPV,Sub-Saharan Africa ,Lower middle income,Blend,6.270701481,2.5712774,-3.699424101,-58.99537894,Over-Invested
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,IDA,3.423188472,1.3495979,-2.073590541,-60.57482836,Over-Invested
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,IBRD,4.240044677,1.6122559,-2.627788746,-61.97549664,Over-Invested
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,Not classified,40.17082486,15.184994,-24.98583111,-62.19894961,Over-Invested
+Czech Republic,CZE,Europe & Central Asia,High income,Not classified,3.784666584,1.4140903,-2.370576309,-62.63633152,Over-Invested
+Uganda,UGA,Sub-Saharan Africa ,Low income,IDA,3.317846184,1.2388358,-2.079010372,-62.66144532,Over-Invested
+Mauritius,MUS,Sub-Saharan Africa ,Upper middle income,IBRD,2.725219119,1.0128533,-1.712365854,-62.83406138,Over-Invested
+Slovak Republic,SVK,Europe & Central Asia,High income,Not classified,3.9086177,1.4396865,-2.468931163,-63.16635068,Over-Invested
+Poland,POL,Europe & Central Asia,High income,IBRD,2.77970466,1.0188842,-1.760820478,-63.34559579,Over-Invested
+St. Kitts and Nevis,KNA,Latin America & Caribbean ,High income,IBRD,9.052314188,3.297928,-5.754386093,-63.56812163,Over-Invested
+Kosovo,XKX,Europe & Central Asia,Upper middle income,IDA,4.120794632,1.4802403,-2.640554287,-64.07876448,Over-Invested
+Oman,OMN,Middle East & North Africa,High income,Not classified,3.103918311,1.1043284,-1.999589917,-64.42147366,Over-Invested
+Grenada,GRD,Latin America & Caribbean ,Upper middle income,Blend,11.17274757,3.8683674,-7.304380133,-65.37675795,Over-Invested
+Malaysia,MYS,East Asia & Pacific,Upper middle income,IBRD,3.267368185,1.1291147,-2.138253438,-65.44268405,Over-Invested
+Morocco,MAR,Middle East & North Africa,Lower middle income,IBRD,2.704267432,0.9257403,-1.778527131,-65.76742779,Over-Invested
+Switzerland,CHE,Europe & Central Asia,High income,Not classified,7.014581868,2.3783123,-4.636269519,-66.09473816,Over-Invested
+Montenegro,MNE,Europe & Central Asia,Upper middle income,IBRD,10.70887963,3.6228018,-7.086077849,-66.17011391,Over-Invested
+Uruguay,URY,Latin America & Caribbean ,High income,IBRD,3.197113154,1.0723295,-2.124783633,-66.45944421,Over-Invested
+Tunisia,TUN,Middle East & North Africa,Lower middle income,IBRD,2.063614157,0.68159795,-1.382016208,-66.97066911,Over-Invested
+Pakistan,PAK,South Asia,Lower middle income,Blend,0.825363843,0.2668858,-0.558478056,-67.66446829,Over-Invested
+Belarus,BLR,Europe & Central Asia,Upper middle income,IBRD,2.585946349,0.8242712,-1.761675146,-68.12496893,Over-Invested
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,IBRD,4.198202327,1.3189908,-2.8792115,-68.58200906,Over-Invested
+Peru,PER,Latin America & Caribbean ,Upper middle income,IBRD,3.516320615,1.0931123,-2.423208265,-68.91317746,Over-Invested
+Rwanda,RWA,Sub-Saharan Africa ,Low income,IDA,3.003562844,0.91875124,-2.084811604,-69.41128628,Over-Invested
+Philippines,PHL,East Asia & Pacific,Lower middle income,IBRD,2.718555365,0.8276373,-1.89091805,-69.55598825,Over-Invested
+Italy,ITA,Europe & Central Asia,High income,Not classified,1.010973256,0.30702108,-0.703952175,-69.63113717,Over-Invested
+Dominican Republic,DOM,Latin America & Caribbean ,Upper middle income,IBRD,3.539674665,1.045995,-2.493679668,-70.44940295,Over-Invested
+Ghana,GHA,Sub-Saharan Africa ,Lower middle income,IDA,5.725840262,1.6701056,-4.055734686,-70.83213118,Over-Invested
+Thailand,THA,East Asia & Pacific,Upper middle income,IBRD,1.824213574,0.5317133,-1.292500267,-70.85246407,Over-Invested
+Lebanon,LBN,Middle East & North Africa,Upper middle income,IBRD,4.802570958,1.3856758,-3.41689517,-71.14720844,Over-Invested
+Guinea,GIN,Sub-Saharan Africa ,Low income,IDA,7.06124974,2.0220823,-5.039167411,-71.36367636,Over-Invested
+Iraq,IRQ,Middle East & North Africa,Upper middle income,IBRD,-3.149391543,0.9001497,4.049541246,-71.41829808,Under-Invested
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,IDA,6.350972196,1.771225,-4.57974722,-72.11096316,Over-Invested
+Spain,ESP,Europe & Central Asia,High income,Not classified,2.242760096,0.61254346,-1.630216633,-72.68796316,Over-Invested
+Malawi,MWI,Sub-Saharan Africa ,Low income,IDA,4.981500292,1.3592867,-3.622213626,-72.71330751,Over-Invested
+Sao Tome and Principe,STP,Sub-Saharan Africa ,Lower middle income,IDA,7.976730329,2.1698346,-5.806895716,-72.79794447,Over-Invested
+Ethiopia,ETH,Sub-Saharan Africa ,Low income,IDA,4.568249635,1.2370473,-3.33120232,-72.92075929,Over-Invested
+Nicaragua,NIC,Latin America & Caribbean ,Lower middle income,IDA,5.631157279,1.5192112,-4.111946106,-73.02133296,Over-Invested
+Seychelles,SYC,Sub-Saharan Africa ,High income,IBRD,5.398076416,1.4299984,-3.968078018,-73.50911162,Over-Invested
+Costa Rica,CRI,Latin America & Caribbean ,Upper middle income,IBRD,4.871525994,1.289623,-3.581902972,-73.52732955,Over-Invested
+Mexico,MEX,Latin America & Caribbean ,Upper middle income,IBRD,3.06826918,0.8056958,-2.262573407,-73.74103363,Over-Invested
+Japan,JPN,East Asia & Pacific,High income,Not classified,0.472905613,0.12239051,-0.350515105,-74.11946376,Over-Invested
+Niger,NER,Sub-Saharan Africa ,Low income,IDA,5.111648228,1.3161826,-3.795465615,-74.25130692,Over-Invested
+Myanmar,MMR,East Asia & Pacific,Lower middle income,IDA,4.959080062,1.2655932,-3.69348689,-74.47927528,Over-Invested
+Gabon,GAB,Sub-Saharan Africa ,Upper middle income,IBRD,6.055847481,1.5218508,-4.533996657,-74.86972998,Over-Invested
+Ukraine,UKR,Europe & Central Asia,Lower middle income,IBRD,2.86218042,0.7025701,-2.159610339,-75.45332657,Over-Invested
+Curacao,CUW,Latin America & Caribbean ,High income,Not classified,4.601854766,1.122353,-3.479501808,-75.61085661,Over-Invested
+Netherlands,NLD,Europe & Central Asia,High income,Not classified,14.53245915,3.5057585,-11.02670062,-75.87635727,Over-Invested
+United Kingdom,GBR,Europe & Central Asia,High income,Not classified,4.503895312,1.0831884,-3.420706898,-75.94996465,Over-Invested
+China,CHN,East Asia & Pacific,Upper middle income,IBRD,1.658335195,0.3920229,-1.266312288,-76.36045422,Over-Invested
+Israel,ISR,Middle East & North Africa,High income,Not classified,4.573148891,1.0685759,-3.504573032,-76.63369629,Over-Invested
+Fiji,FJI,East Asia & Pacific,Upper middle income,Blend,6.433133402,1.468509,-4.964624443,-77.17272646,Over-Invested
+Honduras,HND,Latin America & Caribbean ,Lower middle income,IDA,5.678638456,1.2735562,-4.405082224,-77.57285937,Over-Invested
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,IBRD,4.763292916,1.0601217,-3.703171261,-77.74393315,Over-Invested
+Jamaica,JAM,Latin America & Caribbean ,Upper middle income,IBRD,6.01120932,1.3253294,-4.685879897,-77.95236611,Over-Invested
+Suriname,SUR,Latin America & Caribbean ,Upper middle income,IBRD,5.560849223,1.1984272,-4.362422022,-78.44884563,Over-Invested
+Saudi Arabia,SAU,Middle East & North Africa,High income,Not classified,0.786468391,0.16353747,-0.622930918,-79.20609723,Over-Invested
+United Arab Emirates,ARE,Middle East & North Africa,High income,Not classified,2.581628051,0.5341545,-2.047473576,-79.30939453,Over-Invested
+Chile,CHL,Latin America & Caribbean ,High income,IBRD,4.406590926,0.90609187,-3.500499057,-79.43780387,Over-Invested
+Albania,ALB,Europe & Central Asia,Upper middle income,IBRD,8.335009937,1.7135137,-6.621496205,-79.44197134,Over-Invested
+Serbia,SRB,Europe & Central Asia,Upper middle income,IBRD,6.596957033,1.3442042,-5.252752846,-79.62387536,Over-Invested
+Sierra Leone,SLE,Sub-Saharan Africa ,Low income,IDA,11.12640807,2.243116,-8.883292164,-79.83971207,Over-Invested
+Singapore,SGP,East Asia & Pacific,High income,Not classified,24.08103794,4.6573777,-19.42366022,-80.65956405,Over-Invested
+Georgia,GEO,Europe & Central Asia,Upper middle income,IBRD,9.886926314,1.8369188,-8.050007483,-81.42072903,Over-Invested
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,IDA,7.70075789,1.3656069,-6.335150986,-82.26659085,Over-Invested
+Djibouti,DJI,Middle East & North Africa,Lower middle income,IDA,6.527292883,1.1354358,-5.391857064,-82.60479743,Over-Invested
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,IBRD,7.378700701,1.2270133,-6.151687351,-83.37087518,Over-Invested
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean ,Upper middle income,Blend,13.04239343,2.113775,-10.92861842,-83.79304362,Over-Invested
+Turkmenistan,TKM,Europe & Central Asia,Upper middle income,IBRD,6.267542146,1.0035058,-5.26403632,-83.98884598,Over-Invested
+Brazil,BRA,Latin America & Caribbean ,Upper middle income,IBRD,3.895168492,0.60962915,-3.285539338,-84.34909413,Over-Invested
+Panama,PAN,Latin America & Caribbean ,High income,IBRD,9.240346253,1.3344657,-7.905880511,-85.55827124,Over-Invested
+Malta,MLT,Middle East & North Africa,High income,Not classified,31.68846265,4.4942427,-27.19421998,-85.81741652,Over-Invested
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,IBRD,0.813851476,0.114281,-0.699570477,-85.95800313,Over-Invested
+Maldives,MDV,South Asia,Upper middle income,IDA,9.610284716,1.2917501,-8.318534643,-86.5586701,Over-Invested
+Iceland,ISL,Europe & Central Asia,High income,Not classified,-7.234211613,0.96044034,8.194651951,-86.72363501,Under-Invested
+Cyprus,CYP,Europe & Central Asia,High income,Not classified,31.93120356,4.1124187,-27.81878491,-87.1210033,Over-Invested
+Canada,CAN,North America,High income,Not classified,2.608390727,0.31845692,-2.289933809,-87.79105773,Over-Invested
+Somalia,SOM,Sub-Saharan Africa ,Low income,IDA,8.154837056,0.9185972,-7.236239834,-88.73555394,Over-Invested
+Cambodia,KHM,East Asia & Pacific,Lower middle income,IDA,11.89803974,1.2855854,-10.61245433,-89.19498143,Over-Invested
+"Congo, Rep.",COG,Sub-Saharan Africa ,Lower middle income,Blend,34.87665461,3.697229,-31.1794257,-89.39912973,Over-Invested
+Australia,AUS,East Asia & Pacific,High income,Not classified,3.522747326,0.3721643,-3.150583017,-89.43539588,Over-Invested
+Ireland,IRL,Europe & Central Asia,High income,Not classified,35.35658032,3.6616871,-31.69489318,-89.64354838,Over-Invested
+Palau,PLW,East Asia & Pacific,High income,IBRD,10.31192537,0.86190987,-9.450015501,-91.6416204,Over-Invested
+Croatia,HRV,Europe & Central Asia,High income,IBRD,2.432292817,0.19897541,-2.233317403,-91.8194301,Over-Invested
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,IBRD,1.344566707,0.10989362,-1.234673087,-91.82683764,Over-Invested
+Turkey,TUR,Europe & Central Asia,Upper middle income,IBRD,1.725486261,0.12201822,-1.603468043,-92.92847351,Over-Invested
+Vietnam,VNM,East Asia & Pacific,Lower middle income,IBRD,6.216571491,0.43594986,-5.780621629,-92.98729432,Over-Invested
+Colombia,COL,Latin America & Caribbean ,Upper middle income,IBRD,4.18961455,0.25850356,-3.931110994,-93.82989645,Over-Invested
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,IBRD,2.59339162,-0.06421852,-2.657610141,-102.4762369,Over-Invested
+Argentina,ARG,Latin America & Caribbean ,Upper middle income,IBRD,1.659412959,-0.34217924,-2.001592198,-120.6204994,Over-Invested
+Indonesia,IDN,East Asia & Pacific,Lower middle income,IBRD,1.681169772,-0.35719827,-2.03836804,-121.2470075,Over-Invested
+India,IND,South Asia,Lower middle income,IBRD,1.772302156,-0.53249604,-2.304798191,-130.0454431,Over-Invested
+United States,USA,North America,High income,Not classified,2.128764003,-2.3758795,-4.504643529,-211.6084039,Over-Invested

@@ -1,0 +1,193 @@
+Country,Actual FDI Inflow (% of GDP),Predicted FDI Inflow (% of GDP),Difference,Percent Difference (%),Over- or Under- Investment
+Libya,0.00,1.76,1.76,inf,Under-Invested
+Nauru,0.00,0.83,0.83,inf,Under-Invested
+South Sudan,0.00,0.87,0.87,69611.17,Under-Invested
+Turks and Caicos Islands,0.09,1.75,1.66,1914.39,Under-Invested
+Bhutan,0.07,1.25,1.17,1570.29,Under-Invested
+Eswatini,0.17,1.43,1.26,745.59,Under-Invested
+Dominica,0.51,2.91,2.40,472.25,Under-Invested
+Papua New Guinea,0.34,1.69,1.34,389.25,Under-Invested
+Kuwait,0.15,0.71,0.56,375.07,Under-Invested
+Qatar,0.16,0.60,0.44,285.65,Under-Invested
+Hungary,-1.37,4.95,6.32,261.20,Under-Invested
+Austria,-0.80,2.85,3.64,258.02,Under-Invested
+Burundi,0.41,1.20,0.79,191.66,Under-Invested
+Trinidad and Tobago,-0.55,1.54,2.09,181.09,Under-Invested
+Nepal,0.52,1.38,0.86,165.53,Under-Invested
+Central African Republic,0.43,1.13,0.70,162.11,Under-Invested
+Timor-Leste,0.93,2.39,1.46,155.86,Under-Invested
+Solomon Islands,2.37,5.26,2.88,121.71,Under-Invested
+Zimbabwe,1.79,3.88,2.10,117.16,Under-Invested
+"Gambia, The",0.49,1.05,0.57,116.46,Under-Invested
+Bahrain,1.61,3.26,1.65,102.31,Under-Invested
+Samoa,1.71,3.42,1.71,99.91,Under-Invested
+Liberia,7.03,13.22,6.19,88.04,Under-Invested
+South Africa,0.83,1.49,0.66,80.41,Under-Invested
+West Bank and Gaza,1.56,2.79,1.23,78.92,Under-Invested
+Equatorial Guinea,1.92,3.14,1.22,63.66,Under-Invested
+Comoros,0.47,0.77,0.29,62.20,Under-Invested
+"Macao SAR, China",1.84,2.98,1.14,61.89,Under-Invested
+Marshall Islands,-0.59,0.94,1.53,60.69,Under-Invested
+Kiribati,0.32,0.51,0.19,60.46,Under-Invested
+Mongolia,-2.08,3.24,5.32,55.24,Under-Invested
+"Congo, Dem. Rep.",2.77,4.27,1.50,54.32,Under-Invested
+New Zealand,0.73,1.08,0.35,48.29,Under-Invested
+Afghanistan,0.58,0.81,0.23,39.86,Under-Invested
+Algeria,0.57,0.75,0.18,30.71,Under-Invested
+Bolivia,1.30,1.57,0.27,21.04,Under-Invested
+Nigeria,0.79,0.94,0.15,18.77,Under-Invested
+Belize,3.26,3.71,0.45,13.70,Under-Invested
+"Yemen, Rep.",-0.98,1.09,2.07,12.22,Under-Invested
+Bangladesh,1.08,1.19,0.12,10.78,Under-Invested
+Aruba,1.91,2.11,0.20,10.48,Under-Invested
+"Korea, Rep.",0.80,0.87,0.07,8.52,Under-Invested
+Burkina Faso,2.31,2.42,0.12,5.00,Under-Invested
+Moldova,1.91,2.00,0.09,4.51,Under-Invested
+Benin,1.88,1.87,-0.01,-0.45,Over-Invested
+Denmark,1.32,1.30,-0.02,-1.61,Over-Invested
+Kenya,1.06,1.02,-0.04,-3.61,Over-Invested
+Madagascar,3.85,3.47,-0.38,-9.87,Over-Invested
+Sweden,2.50,2.20,-0.31,-12.19,Over-Invested
+Uzbekistan,1.60,1.40,-0.20,-12.35,Over-Invested
+Botswana,1.41,1.20,-0.21,-14.81,Over-Invested
+Angola,-0.76,0.62,1.37,-18.27,Under-Invested
+El Salvador,1.94,1.55,-0.39,-20.04,Over-Invested
+Tonga,1.59,1.23,-0.35,-22.14,Over-Invested
+Sudan,1.64,1.27,-0.37,-22.42,Over-Invested
+Tuvalu,0.78,0.59,-0.19,-23.88,Over-Invested
+Barbados,3.94,2.97,-0.96,-24.51,Over-Invested
+Guyana,5.99,4.48,-1.50,-25.11,Over-Invested
+France,1.67,1.25,-0.43,-25.44,Over-Invested
+Norway,-1.54,1.13,2.67,-26.75,Under-Invested
+Bosnia and Herzegovina,2.25,1.61,-0.64,-28.62,Over-Invested
+Ecuador,1.00,0.71,-0.29,-28.80,Over-Invested
+Haiti,2.02,1.40,-0.61,-30.42,Over-Invested
+Cote d'Ivoire,1.95,1.34,-0.61,-31.32,Over-Invested
+Belgium,-3.89,2.64,6.54,-32.03,Under-Invested
+Mauritania,7.38,5.01,-2.38,-32.18,Over-Invested
+Latvia,2.24,1.52,-0.73,-32.45,Over-Invested
+Liechtenstein,1129.44,755.95,-373.48,-33.07,Over-Invested
+Lithuania,2.18,1.45,-0.72,-33.25,Over-Invested
+Namibia,3.84,2.56,-1.28,-33.36,Over-Invested
+Sri Lanka,1.33,0.87,-0.45,-34.25,Over-Invested
+Guatemala,1.56,1.01,-0.55,-35.38,Over-Invested
+Cameroon,2.11,1.35,-0.76,-36.07,Over-Invested
+Germany,2.15,1.36,-0.80,-36.93,Over-Invested
+Cayman Islands,1187.08,744.54,-442.54,-37.28,Over-Invested
+Senegal,2.54,1.59,-0.95,-37.45,Over-Invested
+Brunei Darussalam,1.91,1.19,-0.72,-37.84,Over-Invested
+Togo,2.22,1.36,-0.86,-38.69,Over-Invested
+Antigua and Barbuda,7.14,4.31,-2.83,-39.65,Over-Invested
+Luxembourg,13.91,8.34,-5.57,-40.02,Over-Invested
+Slovenia,3.14,1.87,-1.27,-40.34,Over-Invested
+Lesotho,2.87,1.69,-1.18,-41.01,Over-Invested
+Tanzania,2.56,1.45,-1.12,-43.59,Over-Invested
+Mozambique,21.55,12.02,-9.53,-44.21,Over-Invested
+Greece,1.44,0.77,-0.67,-46.23,Over-Invested
+Paraguay,1.28,0.68,-0.60,-46.71,Over-Invested
+Chad,4.19,2.21,-1.98,-47.29,Over-Invested
+Estonia,2.62,1.38,-1.25,-47.56,Over-Invested
+Guinea-Bissau,1.33,0.69,-0.64,-48.34,Over-Invested
+Armenia,2.28,1.14,-1.14,-49.87,Over-Invested
+Zambia,3.87,1.93,-1.94,-50.12,Over-Invested
+Mali,2.61,1.24,-1.36,-52.27,Over-Invested
+St. Lucia,7.18,3.40,-3.78,-52.61,Over-Invested
+Jordan,3.85,1.71,-2.14,-55.54,Over-Invested
+Portugal,3.10,1.37,-1.72,-55.59,Over-Invested
+Finland,3.47,1.50,-1.97,-56.81,Over-Invested
+"Bahamas, The",3.44,1.44,-1.99,-57.97,Over-Invested
+Tajikistan,3.70,1.55,-2.15,-58.04,Over-Invested
+Romania,2.86,1.18,-1.68,-58.86,Over-Invested
+Cabo Verde,6.27,2.57,-3.70,-59.00,Over-Invested
+Vanuatu,3.42,1.35,-2.07,-60.57,Over-Invested
+Bulgaria,4.24,1.61,-2.63,-61.98,Over-Invested
+"Hong Kong SAR, China",40.17,15.18,-24.99,-62.20,Over-Invested
+Czech Republic,3.78,1.41,-2.37,-62.64,Over-Invested
+Uganda,3.32,1.24,-2.08,-62.66,Over-Invested
+Mauritius,2.73,1.01,-1.71,-62.83,Over-Invested
+Slovak Republic,3.91,1.44,-2.47,-63.17,Over-Invested
+Poland,2.78,1.02,-1.76,-63.35,Over-Invested
+St. Kitts and Nevis,9.05,3.30,-5.75,-63.57,Over-Invested
+Kosovo,4.12,1.48,-2.64,-64.08,Over-Invested
+Oman,3.10,1.10,-2.00,-64.42,Over-Invested
+Grenada,11.17,3.87,-7.30,-65.38,Over-Invested
+Malaysia,3.27,1.13,-2.14,-65.44,Over-Invested
+Morocco,2.70,0.93,-1.78,-65.77,Over-Invested
+Switzerland,7.01,2.38,-4.64,-66.09,Over-Invested
+Montenegro,10.71,3.62,-7.09,-66.17,Over-Invested
+Uruguay,3.20,1.07,-2.12,-66.46,Over-Invested
+Tunisia,2.06,0.68,-1.38,-66.97,Over-Invested
+Pakistan,0.83,0.27,-0.56,-67.66,Over-Invested
+Belarus,2.59,0.82,-1.76,-68.12,Over-Invested
+North Macedonia,4.20,1.32,-2.88,-68.58,Over-Invested
+Peru,3.52,1.09,-2.42,-68.91,Over-Invested
+Rwanda,3.00,0.92,-2.08,-69.41,Over-Invested
+Philippines,2.72,0.83,-1.89,-69.56,Over-Invested
+Italy,1.01,0.31,-0.70,-69.63,Over-Invested
+Dominican Republic,3.54,1.05,-2.49,-70.45,Over-Invested
+Ghana,5.73,1.67,-4.06,-70.83,Over-Invested
+Thailand,1.82,0.53,-1.29,-70.85,Over-Invested
+Lebanon,4.80,1.39,-3.42,-71.15,Over-Invested
+Guinea,7.06,2.02,-5.04,-71.36,Over-Invested
+Iraq,-3.15,0.90,4.05,-71.42,Under-Invested
+Kyrgyz Republic,6.35,1.77,-4.58,-72.11,Over-Invested
+Spain,2.24,0.61,-1.63,-72.69,Over-Invested
+Malawi,4.98,1.36,-3.62,-72.71,Over-Invested
+Sao Tome and Principe,7.98,2.17,-5.81,-72.80,Over-Invested
+Ethiopia,4.57,1.24,-3.33,-72.92,Over-Invested
+Nicaragua,5.63,1.52,-4.11,-73.02,Over-Invested
+Seychelles,5.40,1.43,-3.97,-73.51,Over-Invested
+Costa Rica,4.87,1.29,-3.58,-73.53,Over-Invested
+Mexico,3.07,0.81,-2.26,-73.74,Over-Invested
+Japan,0.47,0.12,-0.35,-74.12,Over-Invested
+Niger,5.11,1.32,-3.80,-74.25,Over-Invested
+Myanmar,4.96,1.27,-3.69,-74.48,Over-Invested
+Gabon,6.06,1.52,-4.53,-74.87,Over-Invested
+Ukraine,2.86,0.70,-2.16,-75.45,Over-Invested
+Curacao,4.60,1.12,-3.48,-75.61,Over-Invested
+Netherlands,14.53,3.51,-11.03,-75.88,Over-Invested
+United Kingdom,4.50,1.08,-3.42,-75.95,Over-Invested
+China,1.66,0.39,-1.27,-76.36,Over-Invested
+Israel,4.57,1.07,-3.50,-76.63,Over-Invested
+Fiji,6.43,1.47,-4.96,-77.17,Over-Invested
+Honduras,5.68,1.27,-4.41,-77.57,Over-Invested
+Kazakhstan,4.76,1.06,-3.70,-77.74,Over-Invested
+Jamaica,6.01,1.33,-4.69,-77.95,Over-Invested
+Suriname,5.56,1.20,-4.36,-78.45,Over-Invested
+Saudi Arabia,0.79,0.16,-0.62,-79.21,Over-Invested
+United Arab Emirates,2.58,0.53,-2.05,-79.31,Over-Invested
+Chile,4.41,0.91,-3.50,-79.44,Over-Invested
+Albania,8.34,1.71,-6.62,-79.44,Over-Invested
+Serbia,6.60,1.34,-5.25,-79.62,Over-Invested
+Sierra Leone,11.13,2.24,-8.88,-79.84,Over-Invested
+Singapore,24.08,4.66,-19.42,-80.66,Over-Invested
+Georgia,9.89,1.84,-8.05,-81.42,Over-Invested
+Lao PDR,7.70,1.37,-6.34,-82.27,Over-Invested
+Djibouti,6.53,1.14,-5.39,-82.60,Over-Invested
+Azerbaijan,7.38,1.23,-6.15,-83.37,Over-Invested
+St. Vincent and the Grenadines,13.04,2.11,-10.93,-83.79,Over-Invested
+Turkmenistan,6.27,1.00,-5.26,-83.99,Over-Invested
+Brazil,3.90,0.61,-3.29,-84.35,Over-Invested
+Panama,9.24,1.33,-7.91,-85.56,Over-Invested
+Malta,31.69,4.49,-27.19,-85.82,Over-Invested
+"Iran, Islamic Rep.",0.81,0.11,-0.70,-85.96,Over-Invested
+Maldives,9.61,1.29,-8.32,-86.56,Over-Invested
+Iceland,-7.23,0.96,8.19,-86.72,Under-Invested
+Cyprus,31.93,4.11,-27.82,-87.12,Over-Invested
+Canada,2.61,0.32,-2.29,-87.79,Over-Invested
+Somalia,8.15,0.92,-7.24,-88.74,Over-Invested
+Cambodia,11.90,1.29,-10.61,-89.19,Over-Invested
+"Congo, Rep.",34.88,3.70,-31.18,-89.40,Over-Invested
+Australia,3.52,0.37,-3.15,-89.44,Over-Invested
+Ireland,35.36,3.66,-31.69,-89.64,Over-Invested
+Palau,10.31,0.86,-9.45,-91.64,Over-Invested
+Croatia,2.43,0.20,-2.23,-91.82,Over-Invested
+Russian Federation,1.34,0.11,-1.23,-91.83,Over-Invested
+Turkey,1.73,0.12,-1.60,-92.93,Over-Invested
+Vietnam,6.22,0.44,-5.78,-92.99,Over-Invested
+Colombia,4.19,0.26,-3.93,-93.83,Over-Invested
+"Egypt, Arab Rep.",2.59,-0.06,-2.66,-102.48,Over-Invested
+Argentina,1.66,-0.34,-2.00,-120.62,Over-Invested
+Indonesia,1.68,-0.36,-2.04,-121.25,Over-Invested
+India,1.77,-0.53,-2.30,-130.05,Over-Invested
+United States,2.13,-2.38,-4.50,-211.61,Over-Invested
